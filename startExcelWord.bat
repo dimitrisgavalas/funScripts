@@ -1,0 +1,2 @@
+start excel
+start winword
